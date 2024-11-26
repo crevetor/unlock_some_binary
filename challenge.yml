@@ -1,0 +1,11 @@
+name: unlock_some_binary
+author: Crevetor
+category: Reverse Engineering
+decription: I hope we have the right key
+value: 100
+
+flags:
+  - flag{deadbeef_and_coffee}
+
+files:
+  - unlock_some_binary.exe
